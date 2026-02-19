@@ -470,7 +470,8 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll ครู:** 
 ```
- # บันทึกรูปหน้า Enroll
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cfa5b28-a220-41f1-9525-7294e33e6071" />
+
 ```
 
 **Enroll นักเรียนผ่าน Cohort sync:**
